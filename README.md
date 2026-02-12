@@ -17,11 +17,11 @@ Here is a demonstration of the model's capability to transfer different artistic
 
 | **Original Content** | **Picasso Style** |
 | :---: | :---: |
-| <img src="cat.jpg" width="400"> | <img src="cat-result.jpg" width="400"> |
+| <img src="Screenshots/cat.jpg" width="400"> | <img src="Screenshots/cat-result.jpg" width="400"> |
 | **Starry Night (Van Gogh)** | **The Great Wave (Hokusai)** |
-| <img src="cat-result-2.jpg" width="400"> | <img src="cat-result-3.jpg" width="400"> |
+| <img src="Screenshots/cat-result-2.jpg" width="400"> | <img src="Screenshots/cat-result-3.jpg" width="400"> |
 | **Mosaic (Byzantine)** | **Live App Interface** |
-| <img src="cat-result-4.jpg" width="400"> | [**🚀 Click Here to Try the Live App**](https://fastnst-f78nxukokgrazfhplfrqjt.streamlit.app/) |
+| <img src="Screenshots/cat-result-4.jpg" width="400"> | [**🚀 Click Here to Try the Live App**](https://fastnst-f78nxukokgrazfhplfrqjt.streamlit.app/) |
 
 ---
 
